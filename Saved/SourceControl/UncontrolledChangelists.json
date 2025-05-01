@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_HallCorner.uasset",
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_HallIntersection.uasset",
+				"D:/GITHUB/FloorFourGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/GITHUB/FloorFourGame/Content/Maps/L_WorldLevel.umap",
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_Corner.uasset"
+			]
+		}
+	]
+}
