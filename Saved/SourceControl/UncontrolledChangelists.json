@@ -9,6 +9,12 @@
 				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_HallIntersection.uasset",
 				"D:/GITHUB/FloorFourGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/GITHUB/FloorFourGame/Content/Maps/L_WorldLevel.umap",
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Tiles/BP_HallwayWallDeadEnd.uasset",
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Tiles/BP_CeilingDeadEnd.uasset",
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_HallDeadEnd.uasset",
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Tech/BP_Teleporter.uasset",
+				"D:/GITHUB/FloorFourGame/Content/Models/KitbashTiles/Floor/Textures/M_Floor.uasset",
+				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Tiles/BP_RoofDeadEnd.uasset",
 				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_Corner.uasset"
 			]
 		}
