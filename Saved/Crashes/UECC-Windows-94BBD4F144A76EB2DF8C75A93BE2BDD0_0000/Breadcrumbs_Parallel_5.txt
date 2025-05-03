@@ -1,0 +1,10 @@
+Breadcrumbs 'Parallel'
+ - NoOcclusionPass
+ - Nanite::DrawGeometry
+ - Face 1
+ - Nanite Cubemap L_WorldLevel.BP_Light_GEN_VARIABLE_BP_Light_C_CAT_15649 1024x1024
+ - Cubemap L_WorldLevel.BP_Light_GEN_VARIABLE_BP_Light_C_CAT_15649 1024^2
+ - ShadowDepths
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 359
