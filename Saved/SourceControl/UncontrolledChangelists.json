@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Curtin25S1/VisualNarrative/FloorFourGame/Content/Models/Decor/Office/Printer.uasset",
+				"D:/Curtin25S1/VisualNarrative/FloorFourGame/Content/Maps/L_WorldLevel.umap",
+				"D:/Curtin25S1/VisualNarrative/FloorFourGame/Content/Models/Decor/Office/Clock.uasset",
+				"D:/Curtin25S1/VisualNarrative/FloorFourGame/Content/Models/Decor/Office/Telephone.uasset",
+				"D:/Curtin25S1/VisualNarrative/FloorFourGame/Content/Models/Decor/Office/washingmachine.uasset",
+				"D:/Curtin25S1/VisualNarrative/FloorFourGame/Content/Models/Decor/Office/Waterbottle.uasset",
 				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_HallCorner.uasset",
 				"D:/GITHUB/FloorFourGame/Content/Blueprints/Kitbash/Segments/BP_HallIntersection.uasset",
 				"D:/GITHUB/FloorFourGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
