@@ -10,4 +10,3 @@ This is a game created for a university assignment.
 **2d Art**: Manvi, Renee <br>
 **Audio**: Manvi, Warren, Freesound.org, Pixabay <br>
 **Level Design**: Warren <br>
-**Decor and Layout**: Warren <br>
